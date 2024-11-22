@@ -20,8 +20,8 @@ Quando o led vermelho acende indica que a temperatura esta acima do esperado e l
 O sistema opera com base em dois parâmetros principais: temperatura e luminosidade. Os LEDs são utilizados para indicar o status do sistema, enquanto a alternância entre as fontes de energia é feita automaticamente.
 
 ### Controle de Temperatura
-- **LED Vermelho:** Acende quando a temperatura está **acima de 30°C**, indicando o acionamento do ar-condicionado.
-- **LED Azul:** Acende quando a temperatura está **abaixo de 30°C**, indicando que o ar-condicionado está desligado.
+- **LED Vermelho:** Acende quando a temperatura está **acima de 25°C**, indicando o acionamento do ar-condicionado.
+- **LED Azul:** Acende quando a temperatura está **abaixo de 25°C**, indicando que o ar-condicionado está desligado.
 
 ### Gerenciamento de Energia
 - **LED Verde:** Acende em condições de alta luminosidade, indicando que o sistema está **utilizando energia solar**.
