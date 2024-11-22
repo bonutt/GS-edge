@@ -26,3 +26,7 @@ O sistema opera com base em dois parâmetros principais: temperatura e luminosid
 ### Gerenciamento de Energia
 - **LED Verde:** Acende em condições de alta luminosidade, indicando que o sistema está **utilizando energia solar**.
 - **LED amarelo:** Acende em condiçoes de baixa luminosidade, indicando que o sistema está **utilizando energia convencional
+
+
+##RM560950
+LUIGI BONUCCELLI
