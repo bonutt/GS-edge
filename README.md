@@ -28,5 +28,5 @@ O sistema opera com base em dois parâmetros principais: temperatura e luminosid
 - **LED amarelo:** Acende em condiçoes de baixa luminosidade, indicando que o sistema está **utilizando energia convencional
 
 
-##RM560950
+RM560950
 LUIGI BONUCCELLI
